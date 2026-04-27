@@ -19,7 +19,7 @@ role: Backend Engineer
 location: Delhi, India
 stack: [Java, Spring Boot, FastAPI, Python, TypeScript]
 databases: [PostgreSQL, Redis, Elasticsearch, MongoDB]
-infra: [Docker, Kafka, Spring Cloud, Microservices, DDD, CQRS]
+infra: [Docker, Spring Cloud, Microservices, DDD, CQRS]
 currently_building: "Cloud-Native Microservices & AI-integrated backends"
 learning: "System Design at scale, Distributed Tracing, eBPF"
 open_to: "Backend SDE roles, Collaborations, Open Source"
